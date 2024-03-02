@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mrileyclark
-- 👀 I’m interested in transitioning from a career in Human Resources to a career as an front end web developer!
-- 🌱 I’m currently learning about this career path with Codecademy. I will be completing this online career path this week and I am excited to get more hands on practice buildling websites and web applications.
-- 💞️ I’m looking to collaborate on any projects that will help me improve my knowledge and skills to become an front end web developer.
-- 📫 How to reach me on twitter @maryariley4578
+- 👋 Hi, I’m Mary Clark
+- 👀 I am a passionate front-end web developer based in North Carolina. With a background in retail management, customer service, and human resources, I bring a unique blend of skills to the world of web development. I’m committed to creating delightful user experiences and building clean, responsive interfaces. 
+- 🌱 I’m currently honing my skills in react, node.js, express and mongoDB to balance out my tech experience as a full stack web developer. 
+- 💞️ I’m looking to collaborate on any projects that will help me expand my knowledge and skills and meet new people in the tech industry.
+-  🚀 Connect with me to discuss tech, design, and the perfect cup of coffee! ☕ or beer 🍻.
+- 📫 How to reach me on twitter @maryariley4578 or linkedIn https://www.linkedin.com/in/mary-clark-5a9097156.
 
 <!---
 mrileyclark/mrileyclark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
